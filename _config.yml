@@ -11,5 +11,11 @@ baseurl:          http://mattchou.github.io/verve/
 author:
   name:           Matt Chou
   url:            https://twitter.com/chou
-  email:          
+  email:  
+          
+# Header
 
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
