@@ -4,7 +4,7 @@
  <title>Verve</title>
  <link href="http://mattchou.github.io/verve//verveatom.xml" rel="self"/>
  <link href="http://mattchou.github.io/verve//verve"/>
- <updated>2015-02-21T21:56:54-08:00</updated>
+ <updated>2015-02-21T22:38:55-08:00</updated>
  <id>http://mattchou.github.io/verve/</id>
  <author>
    <name>Matt Chou</name>
@@ -207,12 +207,14 @@
  
  <entry>
    <title>Pic you say?</title>
-   <link href="http://mattchou.github.io/verve//verve/2013/12/31/whats-jekyll/"/>
+   <link href="http://mattchou.github.io/verve//verve/test/2013/12/31/whats-jekyll/"/>
    <updated>2013-12-31T00:00:00-08:00</updated>
-   <id>http://mattchou.github.io/verve//2013/12/31/whats-jekyll</id>
+   <id>http://mattchou.github.io/verve//test/2013/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;This is a test of the inline image functionality &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://mattchou.github.io/verve/assets/19.png&quot; alt=&quot;Insert image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://mattchou.github.io/verve/assets/19.png&quot; alt=&quot;four barrel&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mattchou.github.io/verve/assets/19.png&quot; alt=&quot;four barrel cenered&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
