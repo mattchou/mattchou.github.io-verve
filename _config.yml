@@ -1,20 +1,15 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
 # Permalinks
 permalink:        pretty
 relative_permalinks: true
 
 # Setup
 title:            Verve
-tagline:          'Just Verve'
-description:      'Description to be added at a later time.</a>.'
-url:              http://mattchou.github.io/verve/
-baseurl:          http://mattchou.github.io/verve/
-
+tagline:          Just Verve
+url:              http://mattchou.github.io/verve
+paginate:         1
+baseurl:          /
 author:
-  name:           'Matt Chou'
+  name:           Matt Chou
   url:            https://twitter.com/chou
+  email:          
 
-paginate:         5
