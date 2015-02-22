@@ -17,5 +17,5 @@ author:
 
 pages_list:       
   About: '/verve/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+  Archive: '/verve/archive'
+  Feed: '/verve/atom.xml'
