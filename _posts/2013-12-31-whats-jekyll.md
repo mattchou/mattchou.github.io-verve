@@ -5,4 +5,7 @@ title: Pic you say?
 
 This is a test of the inline image functionality 
 
-![Insert image]({{ site.url }}assets/19.png)
+![four barrel]({{ site.url }}assets/19.png)
+
+{: center-image}
+![four barrel cenered]({{site.url}}/19.png)
