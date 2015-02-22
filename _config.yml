@@ -8,14 +8,14 @@ relative_permalinks: true
 
 # Setup
 title:            Verve
-tagline:          'Verve'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          'Just Verve'
+description:      'Description to be added at a later time.</a>.'
 url:              http://mattchou.github.io/verve/
 baseurl:          http://mattchou.github.io/verve/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Matt Chou'
+  url:            https://twitter.com/chou
 
 paginate:         5
 
