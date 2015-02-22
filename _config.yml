@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Verve
 tagline:          Just Verve
-url:              http://mattchou.github.io/verve/
+url:              http://mattchou.github.io/verve
 paginate:         1
 baseurl:          http://mattchou.github.io/verve/
 author:
@@ -16,6 +16,6 @@ author:
 # Header
 
 pages_list:       
-  About: '/about'
+  About: '/verve/about'
   Archive: '/archive'
   Feed: '/atom.xml'
