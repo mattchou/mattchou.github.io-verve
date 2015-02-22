@@ -7,7 +7,7 @@ title:            Verve
 tagline:          Just Verve
 url:              http://mattchou.github.io/verve
 paginate:         1
-baseurl:          /
+baseurl:          http://mattchou.github.io/verve/
 author:
   name:           Matt Chou
   url:            https://twitter.com/chou
